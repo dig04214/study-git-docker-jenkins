@@ -5,3 +5,6 @@ def suma(arr):
 
 def haha(a, b):
   return a + b
+
+def te(a, b):
+  return a * b
