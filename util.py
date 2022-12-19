@@ -1,2 +1,4 @@
-def sum(a,b):
-  return a+b
+def suma(arr):
+  for i in arr:
+    item += i
+  return item
