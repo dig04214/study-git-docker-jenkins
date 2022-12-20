@@ -1,3 +1,2 @@
-node left
-from right
+study git, docker, jenkins
 
